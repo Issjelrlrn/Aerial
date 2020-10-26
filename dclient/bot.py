@@ -23,7 +23,7 @@ client = commands.AutoShardedBot(
 db = dbconnect(
     host=config["Database"]["Host"],
     port=config["Database"]["Port"],
-    user=config["Database"]["Username"],
+    user=config["Database"]["STXYYYY V1"],
     password=config["Database"]["Password"],
     database="aerial",
 )
